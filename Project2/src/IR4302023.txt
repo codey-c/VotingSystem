@@ -1,0 +1,11 @@
+Parsing IR input file.
+Election Type: Instant Runoff
+
+Candidates: 
+Rosen (D)
+ Kleinberg (R)
+ Chou (I)
+ Royce (L)
+
+
+Number of ballots: 6
